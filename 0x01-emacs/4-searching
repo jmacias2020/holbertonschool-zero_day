@@ -1,1 +1,1 @@
-type M-s w <RET> for a forward search
+M-s w C-r <RET> for a backward search
